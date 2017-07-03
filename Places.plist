@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>places</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Cristo Redentor</string>
+			<key>image</key>
+			<string>cristo</string>
+			<key>description</key>
+			<string>Vista para todo o RIo.</string>
+			<key>address</key>
+			<string>Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pão de Açúcar</string>
+			<key>image</key>
+			<string>paodeacucar</string>
+			<key>description</key>
+			<string>Famoso teleférico Bondinho.</string>
+			<key>address</key>
+			<string>Avenida Pasteur, 520, Urca, Rio de Janeiro, RJ </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maracanã</string>
+			<key>image</key>
+			<string>maraca</string>
+			<key>description</key>
+			<string>Popular estádio do RJ.</string>
+			<key>address</key>
+			<string>Av. Pres. Castelo Branco, Portão 3 - Maracanã, Rio de Janeiro - RJ, 20271-130</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sambódromo</string>
+			<key>image</key>
+			<string>sambo</string>
+			<key>description</key>
+			<string>Desfile das escolas de samba.</string>
+			<key>address</key>
+			<string>R. Marquês de Sapucaí - Santo Cristo, Rio de Janeiro - RJ, 20220-007</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Praia de Ipanema</string>
+			<key>image</key>
+			<string>praiadeipanema</string>
+			<key>description</key>
+			<string>Famosa e Popular praia.</string>
+			<key>address</key>
+			<string>Av. Vieira Souto, S/N - Ipanema, Rio de Janeiro - RJ, 22420-002</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Praia de Copacabana</string>
+			<key>image</key>
+			<string>praiacopacabana</string>
+			<key>description</key>
+			<string>Famosa e conhecida Mundialmente</string>
+			<key>address</key>
+			<string>Av. Atlântica, S/N - Copacabana, Rio de Janeiro - RJ, 22010-000</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arcos da Lapa</string>
+			<key>image</key>
+			<string>lapa</string>
+			<key>description</key>
+			<string>Berço da boemia carioca.</string>
+			<key>address</key>
+			<string>Lapa, Rio de Janeiro - RJ</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aterro do Flamengo</string>
+			<key>image</key>
+			<string>aterro</string>
+			<key>description</key>
+			<string>Aterro para lazer .</string>
+			<key>address</key>
+			<string>Av. Infante Dom Henrique, 10 - Glória, Rio de Janeiro - RJ</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Praia Vermelha</string>
+			<key>image</key>
+			<string>vermelha</string>
+			<key>description</key>
+			<string>Praia pequena e envolvente.</string>
+			<key>address</key>
+			<string>Praça Gen. Tibúrcio - Urca, Rio de Janeiro - RJ, 22290-270</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Catedral de São Sebastião</string>
+			<key>image</key>
+			<string>catedral</string>
+			<key>description</key>
+			<string>Catedral Catolíca</string>
+			<key>address</key>
+			<string>Av. Chile, 245 - Centro, Rio de Janeiro - RJ, 20031-170</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Teatro Municipal do Rio de Janeiro</string>
+			<key>image</key>
+			<string>teatro</string>
+			<key>description</key>
+			<string>Teatros e Shows</string>
+			<key>address</key>
+			<string>Praça Floriano, S/N - Centro, Rio de Janeiro - RJ, 20031-050</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Igreja da Candelária</string>
+			<key>image</key>
+			<string>candelaria</string>
+			<key>description</key>
+			<string>Templo católico do Centro.</string>
+			<key>address</key>
+			<string> Praça Pio X, s/n - Centro, Rio de Janeiro - RJ, 20040-020</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Museu Belas Artes</string>
+			<key>image</key>
+			<string>belas</string>
+			<key>description</key>
+			<string>Museu de artes.</string>
+			<key>address</key>
+			<string> Av. Rio Branco, 199 - Centro, Rio de Janeiro - RJ, 20040-008</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arco de Teles</string>
+			<key>image</key>
+			<string>marco</string>
+			<key>description</key>
+			<string>Marco arquitetônico </string>
+			<key>address</key>
+			<string>Praça Quinze de Novembro, 34 A - Centro, Rio de Janeiro - RJ, 20010-010</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Forte de Copacabana</string>
+			<key>image</key>
+			<string>fortecopacabana</string>
+			<key>description</key>
+			<string>Museu Histórico </string>
+			<key>address</key>
+			<string>Av. Atlântica, Posto 6 - Copacabana, Rio de Janeiro - RJ, 22070-020</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Copacabana Palace</string>
+			<key>image</key>
+			<string>copacabanapalace</string>
+			<key>description</key>
+			<string>Hotel luxuoso e famoso.</string>
+			<key>address</key>
+			<string>Av. Atlântica, 1702 - Copacabana, Rio de Janeiro - RJ, 22021-001</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Parque Nacional da Tijuca</string>
+			<key>image</key>
+			<string>parquenacional</string>
+			<key>description</key>
+			<string>Proteção integral da natureza</string>
+			<key>address</key>
+			<string>Estr. da Cascatinha, 850 - Alto da Boa Vista, Rio de Janeiro - RJ, 20531-590</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vista Chinesa</string>
+			<key>image</key>
+			<string>vista</string>
+			<key>description</key>
+			<string>Mirante em estilo chinês.</string>
+			<key>address</key>
+			<string>Estr. da Vista Chinesa, 1294 - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arpoador</string>
+			<key>image</key>
+			<string>arpoador</string>
+			<key>description</key>
+			<string>Pedra com vista para o mar.</string>
+			<key>address</key>
+			<string>Praia do Arpoador - Ipanema, Rio de Janeiro - RJ, 22080-050</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Escadaria do Selarón</string>
+			<key>image</key>
+			<string>escadaria</string>
+			<key>description</key>
+			<string>Obra arquitetônica</string>
+			<key>address</key>
+			<string>R. Joaquim Silva, S/N - Centro, Rio de Janeiro - RJ, 20241-110</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Passeio Público</string>
+			<key>image</key>
+			<string>parque</string>
+			<key>description</key>
+			<string>Parque com monumentos.</string>
+			<key>address</key>
+			<string>R. Teixeira de Freitas - Centro, Rio de Janeiro - RJ, 20021-350</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jardim Botânico</string>
+			<key>image</key>
+			<string>jardimbotanico</string>
+			<key>description</key>
+			<string>Diversidade da flora brasileira</string>
+			<key>address</key>
+			<string>R. Jardim Botânico, 1008 - Jardim Botânico, RJ, 22460-030</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Parque Laje</string>
+			<key>image</key>
+			<string>laje</string>
+			<key>description</key>
+			<string>Mata nativa com arquitetura.</string>
+			<key>address</key>
+			<string> R. Jardim Botânico, 414 - Jardim Botânico, RJ, 22461-000</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pedra da Gávea</string>
+			<key>image</key>
+			<string>pedradagavea</string>
+			<key>description</key>
+			<string>Melhores vistas da cidade .</string>
+			<key>address</key>
+			<string>Pedra da Gávea - Barra da Tijuca - Rio de Janeiro - RJ</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Quinta da Boa Vista</string>
+			<key>image</key>
+			<string>quinta</string>
+			<key>description</key>
+			<string>Parque de grande valor histórico.</string>
+			<key>address</key>
+			<string>Av. Pedro II, s/n - São Cristóvão,RJ, 20940-040</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Museu Nacional</string>
+			<key>image</key>
+			<string>museunacional</string>
+			<key>description</key>
+			<string>Memória cultural.</string>
+			<key>address</key>
+			<string>Quinta da Boa Vista - São Cristóvão, RJ, 20940-040</string>
+		</dict>
+	</array>
+</dict>
+</plist>
